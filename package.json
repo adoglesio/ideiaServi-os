@@ -1,0 +1,25 @@
+{
+  "name": "ideiaservi-os",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adoglesio/ideiaServi-os.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adoglesio/ideiaServi-os/issues"
+  },
+  "homepage": "https://github.com/adoglesio/ideiaServi-os#readme",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "next": "^12.1.5",
+    "react": "^18.0.0"
+  }
+}
