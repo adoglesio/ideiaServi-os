@@ -11,4 +11,4 @@ function Sobre() {
 }
 
 
-export default Home
+export default Sobre
